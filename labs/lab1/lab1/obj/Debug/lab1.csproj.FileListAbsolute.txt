@@ -8,3 +8,13 @@ C:\Users\Walter Firr\source\repos\lab1\lab1\obj\Debug\lab1.csproj.GenerateResour
 C:\Users\Walter Firr\source\repos\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
 C:\Users\Walter Firr\source\repos\lab1\lab1\obj\Debug\lab1.exe
 C:\Users\Walter Firr\source\repos\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\labs\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\labs\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\labs\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\labs\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\labs\lab1\lab1\obj\Debug\lab1.form.resources
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\labs\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\labs\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\labs\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\labs\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\labs\lab1\lab1\obj\Debug\lab1.pdb

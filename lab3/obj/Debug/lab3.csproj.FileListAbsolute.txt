@@ -1,0 +1,10 @@
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab3\bin\Debug\lab3.exe.config
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab3\bin\Debug\lab3.exe
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab3\bin\Debug\lab3.pdb
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab3\obj\Debug\lab3.exe
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab3\obj\Debug\lab3.pdb
