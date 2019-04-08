@@ -1,0 +1,11 @@
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab5\bin\Debug\lab5.exe.config
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab5\bin\Debug\lab5.exe
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab5\bin\Debug\lab5.pdb
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab5\obj\Debug\lab5.Form1.resources
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab5\obj\Debug\lab5.Form2.resources
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab5\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab5\obj\Debug\lab5.exe
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab5\obj\Debug\lab5.pdb
