@@ -1,0 +1,10 @@
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab4\bin\Debug\lab4.exe.config
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab4\bin\Debug\lab4.exe
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab4\bin\Debug\lab4.pdb
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab4\obj\Debug\lab4.exe
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab4\obj\Debug\lab4.pdb
