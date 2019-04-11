@@ -1,0 +1,14 @@
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab6\bin\Debug\lab6.exe.config
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab6\bin\Debug\lab6.exe
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab6\bin\Debug\lab6.pdb
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab6\obj\Debug\lab6.exe
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab6\obj\Debug\lab6.pdb
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab6\bin\Debug\lab3.exe
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab6\bin\Debug\lab3.pdb
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab6\bin\Debug\lab3.exe.config
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab6\obj\Debug\lab6.csproj.CopyComplete

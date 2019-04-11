@@ -18,5 +18,10 @@ namespace lab3.Helper
             var appRoot = appPathMatcher.Match(exePath).Value;
             return Path.Combine(appRoot, fileName);
         }
+        public static string Append(this string str)
+        {
+            return str + Environment.NewLine + Environment.NewLine;
+        }
+
     }
 }

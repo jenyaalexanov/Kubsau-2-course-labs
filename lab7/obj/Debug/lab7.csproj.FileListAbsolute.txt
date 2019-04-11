@@ -1,0 +1,6 @@
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab7\bin\Debug\lab7.exe.config
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab7\bin\Debug\lab7.exe
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab7\bin\Debug\lab7.pdb
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab7\obj\Debug\lab7.exe
+C:\Users\Walter Firr\Documents\Kubsau-2-course-labs\lab7\obj\Debug\lab7.pdb
